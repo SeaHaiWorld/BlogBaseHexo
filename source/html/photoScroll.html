@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        .box{
+            width: 300px;
+            height: 800px;
+        }
+        .box:hover
+            .img2{
+            transform: translateY(-100%);
+        }
+        .img1 {
+            width: 200px;
+            height: 200px;
+            background-color: red;
+        }
+        .img2 {
+            width: 200px;
+            height: 200px;
+            background-color: blue;
+            transition: all 1s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+<div class="box">
+    <img class="img1"/>
+    <img class="img2"/>
+</div>
+</body>
+</html>
