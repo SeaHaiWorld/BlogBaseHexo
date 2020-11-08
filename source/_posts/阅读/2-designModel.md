@@ -35,15 +35,3 @@ Consumer: 可以看做观察者。是获取 Provider 产生的数据。（必须
 * 不能处理异步的情况
 * 没有 action ， state 的值都是被直接修改，state 的数据安全性不及 redux。
 * context ，并不会减少代码量。Provider 和 Consumer 必须来自同一 React.createContext 调用，发布订阅的单一性
-
-## 从 _Redux_ 到 _Dva_
-先说说 Redux ，Redux 是一个用于状态管理的 js 框架，是 Flux 架构的一种实现（如图）
-
-![](http://www.ruanyifeng.com/blogimg/asset/2016/bg2016011503.png)
-
-| Property | Type | Rule | Description |
-| :-----: | :----: | :----: | :----: |
-| Store | Object | Subject | 所有状态集中存储的地方。并全局唯一，称为状态树 |
-| Action | Object | Action | 标识为一个动作类型，里面包含一个 type 属性 |
-| Reducer | function | Method | 在 store 分发 action 时提供更新状态树中状态的方法 |
-| View | Object | Observer | 视图层 |

@@ -2,6 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28febfc0-6ee0-493f-9b3a-0ca55b017006" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Yang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/前端知识积累/CSS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/前端知识积累/HTML.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/前端知识积累/JavaScript.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/前端知识积累/数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/前端知识积累/浏览器.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/前端知识积累/笔试题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/前端知识积累/计算机网络.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/CSS/CSS实现元素水平垂直居中.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS/CSS实现元素水平垂直居中.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/JavaScript/JavaScriptErgodic.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JavaScript/JavaScriptErgodic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/JavaScript/JavaScriptEventListen.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JavaScript/JavaScriptEventListen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/about/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/about/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/阅读/2-designModel.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/阅读/2-designModel.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/阅读/从零搭建一个简单的React框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/阅读/从零搭建一个简单的React框架.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ayer" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/ayer/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/ayer/source/images/alipay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/source/images/alipay.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/ayer/source/images/cover2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ayer/source/images/cover2.jpg" afterDir="false" />
@@ -20,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/ayer" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XczBShQ5ZVZ3v6GfFH3eTfMVyt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,8 +49,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../项目/teaching_management" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spider_puppeteer/Spider" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,6 +97,29 @@
       <workItem from="1582036586099" duration="38000" />
       <workItem from="1582271298308" duration="7303000" />
       <workItem from="1582449078584" duration="4524000" />
+      <workItem from="1594814932221" duration="9182000" />
+      <workItem from="1594884705060" duration="16033000" />
+      <workItem from="1595058986903" duration="35133000" />
+      <workItem from="1595824105500" duration="2062000" />
+      <workItem from="1595861741614" duration="5144000" />
+      <workItem from="1596158711879" duration="9421000" />
+      <workItem from="1597806336587" duration="1433000" />
+      <workItem from="1597979133328" duration="3928000" />
+      <workItem from="1598921718184" duration="392000" />
+      <workItem from="1598922179241" duration="9055000" />
+      <workItem from="1599120790966" duration="811000" />
+      <workItem from="1599184175359" duration="5207000" />
+      <workItem from="1599461620333" duration="3083000" />
+      <workItem from="1599473171627" duration="620000" />
+      <workItem from="1599545785869" duration="6325000" />
+      <workItem from="1599615648451" duration="6060000" />
+      <workItem from="1599736681913" duration="678000" />
+      <workItem from="1600089878476" duration="4373000" />
+      <workItem from="1600147589142" duration="3853000" />
+      <workItem from="1600225945044" duration="4791000" />
+      <workItem from="1600262574793" duration="9460000" />
+      <workItem from="1600402489077" duration="10662000" />
+      <workItem from="1601115680171" duration="305000" />
     </task>
     <servers />
   </component>
@@ -86,21 +127,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="450" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581525759962">
+    <state x="482" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594815098936">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="450" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1581525759962" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1581751529470">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="482" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594815098936" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595902491096">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581751529470" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1581579223243">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595902491096" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1597984030671">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581579223243" />
-    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1581750863252">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597984030671" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1600408060026">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581750863252" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595002268027" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600408060026" />
   </component>
 </project>

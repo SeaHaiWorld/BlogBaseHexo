@@ -31,7 +31,7 @@ categories:
 ### 元素居中
 #### 误区：CSS 元素定位为左上角
 ![css.jpg](https://blogimage-1259219507.cos.ap-chengdu.myqcloud.com/css%E5%B1%85%E4%B8%AD.jpg)
-#### 弹性盒模型实现
+#### FLEX模型实现
 ```html
 <div class="box">
     <div class="child"></div>

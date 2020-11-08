@@ -150,5 +150,4 @@ function handleDealAttrs(dom, name, value) {
 * 将新 _Virtual DOM_ 和旧 _DOM_ 对比
 * 将新 _Virtual DOM_ 和旧 _Virtual DOM_ 对比
 
-### _Component_ 生命周期优化
 

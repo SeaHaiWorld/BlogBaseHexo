@@ -1,6 +1,6 @@
 ---
 title: JS 事件流的概念
-date: 2020-02-13
+date: 2020-01-13
 tags:
 - JavaScript
 - DOM
